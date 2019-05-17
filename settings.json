@@ -10,6 +10,7 @@
 	"editor.cursorSmoothCaretAnimation": true,
 	"editor.formatOnPaste": true,
 	"editor.formatOnSave": true,
+	"editor.maxTokenizationLineLength": 20000000000,
 	"editor.mouseWheelZoom": true,
 	"editor.suggestSelection": "first",
 
@@ -35,7 +36,6 @@
 	"terminal.integrated.shell.windows": "C:\\windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
 
 	// WORKBENCH
-	"workbench.colorTheme": "Material Theme Darker High Contrast",
 	"workbench.editor.highlightModifiedTabs": true,
 	"workbench.iconTheme": "material-icon-theme",
 	"workbench.startupEditor": "newUntitledFile",
