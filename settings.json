@@ -38,7 +38,7 @@
 	// WORKBENCH
 	"workbench.editor.highlightModifiedTabs": true,
 	"workbench.iconTheme": "material-icon-theme",
-	"workbench.startupEditor": "newUntitledFile",
+	"workbench.startupEditor": "none",
 
 	/*----------------------------------
     -------------LANGUAGES--------------
